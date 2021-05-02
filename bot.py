@@ -6,7 +6,7 @@ from PIL import Image
 from io import BytesIO
 import os
 
-TOKEN = '1693842857:AAE9jPzrMWS93DZ0FM1DqRPZj3bsOMZnskI'
+TOKEN = 'INSERT_YOUR_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 

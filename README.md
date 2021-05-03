@@ -1,6 +1,6 @@
 # not-hotdog-bot
 
-Telegram bot that identifies hotdogs and not hotdogs using transfer learning (ResNet50)
+Telegram bot that identifies hotdogs and not hotdogs on photo using transfer learning (ResNet50)
 
 Libraries: pyTelegramBotAPI, torch, torchvision, pillow
 

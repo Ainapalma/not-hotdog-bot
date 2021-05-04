@@ -2,11 +2,11 @@
 
 Telegram based [@not_hotdog_bot](https://t.me/not_hotdog_bot) that identifies whether on photo hot dogs and not hotdogs using transfer learning (ResNet18)
 
-Files
-* Proctfile - configuration file to deploy on heroku
-* requirements.txt - requirements
-* get_detection - object recogniser
+Files:
 * bot.py - main
+* get_detection.py - object recogniser
+* requirements.txt - requirements
+* Procfile - configuration file to deploy on heroku
 
 Libraries: pyTelegramBotAPI, torch, torchvision, pillow
 

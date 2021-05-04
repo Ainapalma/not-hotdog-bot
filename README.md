@@ -4,6 +4,6 @@ Telegram based [@not_hotdog_bot](https://t.me/not_hotdog_bot) that identifies wh
 
 Libraries: pyTelegramBotAPI, torch, torchvision, pillow
 
-*Inspired by the HBO show Silicon Valley*
+*Inspired by Silicon Valley TV series*
 
 ![text](https://miro.medium.com/max/4320/1*FZSvtomVWXV6hQp1Mkdk3A.png)
